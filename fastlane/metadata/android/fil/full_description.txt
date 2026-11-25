@@ -1,0 +1,9 @@
+45 offline na app: pag-aaral, agham, bahay, kusina, biyahe at dasal
+
+• Pag-aaral: Flashcards, Aklat ng Pormula, Offline na Diksiyonaryo, Pagsasanay sa Math, Pagsasanay sa Pag-type, Bokabularyo Turkish–English, Matutong Mag-code, Mabilis na Pagbasa, Countdown sa Pagsusulit, Net Score Calculator, Tracker ng Paksa
+• Agham: Periodic Table, Simulasyon sa Pisika, Molecule Viewer, World Atlas, Mapa ng Langit, Yugto ng Buwan at Oras ng Araw
+• Pananampalataya at oras: Oras ng Pagdarasal, Qibla Compass, Tasbih Counter, Oras ng Pag-aayuno sa Ramadan, Hijri na Kalendaryo at Banal na Araw
+• Bahay at buhay: Paalala sa Pagdidilig, Imbentaryo ng Bahay, Paalala sa Kaarawan, Plano sa Pag-aalaga ng Bahay, Talaan ng Maintenance ng Sasakyan, Listahan ng Regalo, Wedding Planner, Iskedyul ng Paglilinis at Gawaing-Bahay, Pangangalaga at Bakuna ng Alaga, Garden Planner
+• Kusina: Kahon ng Resipe, Meal Planner, Pantry at Petsa ng Pagkasira
+• Paglalakbay: Checklist sa Biyahe, Saan Ako Nag-park, Hatian ng Gastos sa Biyahe, Talaarawan sa Biyahe, Time Zone Planner, Travel Phrasebook
+• Gabay at kaligtasan: Gabay sa Simbolo ng Labada, Gabay sa Buhol, Gabay sa First Aid, Emergency Kit at Plano ng Pamilya

@@ -1,0 +1,9 @@
+45 aplicații offline: studiu, știință, casă, bucătărie, călătorii, rugăciune
+
+• Învățare: Cartonașe, Carte de formule, Dicționar offline, Exerciții de matematică, Dactilografie, Vocabular turcă–engleză, Învață să programezi, Citire rapidă, Numărătoare inversă la examen, Calculator scor net, Urmărirea temelor de studiu
+• Știință: Tabelul periodic, Simulări de fizică, Vizualizator de molecule, Atlasul lumii, Harta cerului, Fazele Lunii și orele Soarelui
+• Credință și ore: Orele de rugăciune, Busola qibla, Contor tasbih, Orele postului de Ramadan, Calendar hegirian și sărbători
+• Casă și viață: Memento pentru udat plante, Inventarul casei, Memento zile de naștere, Plan de întreținere a casei, Jurnal de întreținere auto, Listă de cadouri, Planificator de nuntă, Program de curățenie și treburi, Îngrijire și vaccinuri pentru animale, Planificator de grădină
+• Bucătărie: Cutia cu rețete, Planificator de mese, Cămară și termene de expirare
+• Călătorii: Listă de călătorie, Unde am parcat, Împărțirea cheltuielilor, Jurnal de călătorie, Planificator de fusuri orare, Ghid de conversație
+• Ghiduri și siguranță: Ghid simboluri de spălare, Ghidul nodurilor, Ghid de prim ajutor, Rucsac de urgență și plan familial

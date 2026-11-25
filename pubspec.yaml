@@ -1,0 +1,258 @@
+name: merkez_egitim_ve_yasam
+description: "Eğitim ve Yaşam merkez uygulaması: 45 çevrimdışı öğrenme, bilim, ibadet vakti, ev, mutfak, seyahat ve güvenlik aracı. Android, iOS ve Web."
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Ortak çekirdek: https://github.com/taktemurr-ops/studio-core
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 92b51dd7d47c300d3611c448b5474fca5f793f2a
+  # Araçların ortak motoru
+  egitim_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/egitim-motoru
+      ref: main
+  # Merkezdeki araçlar (her biri kendi deposunda)
+  uyg_bilgi_kartlari:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-bilgi-kartlari
+      ref: main
+  uyg_periyodik_tablo:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-periyodik-tablo
+      ref: main
+  uyg_formul_kitabi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-formul-kitabi
+      ref: main
+  uyg_cevrimdisi_sozluk:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-cevrimdisi-sozluk
+      ref: main
+  uyg_matematik_pratigi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-matematik-pratigi
+      ref: main
+  uyg_klavye_egitimi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-klavye-egitimi
+      ref: main
+  uyg_tarif_kutusu:
+    git:
+      url: https://github.com/taktemurr-ops/app-007
+      ref: main
+  uyg_bitki_sulama_hatirlatici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-bitki-sulama-hatirlatici
+      ref: main
+  uyg_ev_envanteri:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-ev-envanteri
+      ref: main
+  uyg_dogum_gunu_hatirlatici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-dogum-gunu-hatirlatici
+      ref: main
+  uyg_namaz_vakitleri:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-namaz-vakitleri
+      ref: main
+  uyg_kible_pusulasi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-kible-pusulasi
+      ref: main
+  uyg_zikirmatik:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-zikirmatik
+      ref: main
+  uyg_seyahat_kontrol_listesi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-seyahat-kontrol-listesi
+      ref: main
+  uyg_park_yeri_bulucu:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-park-yeri-bulucu
+      ref: main
+  uyg_yolculuk_gider_bolusme:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-yolculuk-gider-bolusme
+      ref: main
+  uyg_tr_en_kelime_ezberi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-tr-en-kelime-ezberi
+      ref: main
+  uyg_fizik_simulasyonlari:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-fizik-simulasyonlari
+      ref: main
+  uyg_molekul_goruntuleyici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-molekul-goruntuleyici
+      ref: main
+  uyg_dunya_atlasi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-dunya-atlasi
+      ref: main
+  uyg_gokyuzu_haritasi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-gokyuzu-haritasi
+      ref: main
+  uyg_kodlama_ogrenme:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-kodlama-ogrenme
+      ref: main
+  uyg_hizli_okuma:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-hizli-okuma
+      ref: main
+  uyg_sinav_geri_sayimi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-sinav-geri-sayimi
+      ref: main
+  uyg_deneme_net_hesaplayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-deneme-net-hesaplayici
+      ref: main
+  uyg_konu_takip_cizelgesi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-konu-takip-cizelgesi
+      ref: main
+  uyg_ev_bakim_plani:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-ev-bakim-plani
+      ref: main
+  uyg_arac_bakim_takibi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-arac-bakim-takibi
+      ref: main
+  uyg_hediye_listesi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-hediye-listesi
+      ref: main
+  uyg_dugun_planlayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-dugun-planlayici
+      ref: main
+  uyg_temizlik_ve_ev_isi_cizelgesi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-temizlik-ve-ev-isi-cizelgesi
+      ref: main
+  uyg_yemek_planlayici:
+    git:
+      url: https://github.com/taktemurr-ops/app-008
+      ref: main
+  uyg_kiler_ve_son_kullanma_takibi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-kiler-ve-son-kullanma-takibi
+      ref: main
+  uyg_camasir_sembolleri_rehberi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-camasir-sembolleri-rehberi
+      ref: main
+  uyg_evcil_hayvan_bakim_ve_asi_takibi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-evcil-hayvan-bakim-ve-asi-takibi
+      ref: main
+  uyg_bahce_planlayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-bahce-planlayici
+      ref: main
+  uyg_ay_evreleri_ve_gunes_saatleri:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-ay-evreleri-ve-gunes-saatleri
+      ref: main
+  uyg_imsakiye_ve_oruc_vakitleri:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-imsakiye-ve-oruc-vakitleri
+      ref: main
+  uyg_hicri_takvim_ve_dini_gunler:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-hicri-takvim-ve-dini-gunler
+      ref: main
+  uyg_seyahat_gunlugu:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-seyahat-gunlugu
+      ref: main
+  uyg_saat_dilimi_planlayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-saat-dilimi-planlayici
+      ref: main
+  uyg_seyahat_ifadeleri_cep_sozlugu:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-seyahat-ifadeleri-cep-sozlugu
+      ref: main
+  uyg_dugum_rehberi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-dugum-rehberi
+      ref: main
+  uyg_ilk_yardim_rehberi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-ilk-yardim-rehberi
+      ref: main
+  uyg_deprem_cantasi_ve_aile_plani:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-deprem-cantasi-ve-aile-plani
+      ref: main
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  shared_preferences: ^2.3.2
+  audioplayers: ^6.5.0
+  google_mobile_ads: ^9.2.0
+  in_app_purchase: ^3.2.0
+
+dependency_overrides:
+  # Bütün araçlar aynı çekirdek ve motor sürümünü kullansın.
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 92b51dd7d47c300d3611c448b5474fca5f793f2a
+  egitim_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/egitim-motoru
+      ref: main
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_driver:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.1
+  flutter_native_splash: ^2.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/config/
+    - assets/branding/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: assets/branding/icon.png
+  adaptive_icon_background: "#12281F"
+  adaptive_icon_foreground: assets/branding/icon_foreground.png
+  web:
+    generate: true
+    image_path: assets/branding/icon.png
+    background_color: "#12281F"
+    theme_color: "#12281F"
+
+flutter_native_splash:
+  color: "#12281F"
+  image: assets/branding/splash.png
+  android_12:
+    color: "#12281F"
+    image: assets/branding/splash_android12.png
+  web: true

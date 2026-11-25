@@ -1,0 +1,9 @@
+45 çevrimdışı uygulama: ders, bilim, ev, mutfak, seyahat ve ibadet vakitleri
+
+• Öğrenme: Bilgi Kartları, Formül Kitabı, Çevrimdışı Sözlük, Matematik Pratiği, Klavye Eğitimi, TR-EN Kelime Ezberi, Kodlama Öğrenme, Hızlı Okuma, Sınav Geri Sayımı, Deneme Net Hesaplayıcı, Konu Takip Çizelgesi
+• Bilim: Periyodik Tablo, Fizik Simülasyonları, Molekül Görüntüleyici, Dünya Atlası, Gökyüzü Haritası, Ay Evreleri ve Güneş Saatleri
+• İbadet vakitleri: Namaz Vakitleri, Kıble Pusulası, Zikirmatik, İmsakiye ve Oruç Vakitleri, Hicri Takvim ve Dini Günler
+• Ev ve yaşam: Bitki Sulama Hatırlatıcı, Ev Envanteri, Doğum Günü Hatırlatıcı, Ev Bakım Planı, Araç Bakım Takibi, Hediye Listesi, Düğün Planlayıcı, Temizlik ve Ev İşi Çizelgesi, Evcil Hayvan Bakım ve Aşı Takibi, Bahçe Planlayıcı
+• Mutfak: Tarif Kutusu, Yemek Planlayıcı, Kiler ve Son Kullanma Takibi
+• Seyahat: Seyahat Kontrol Listesi, Park Yeri Bulucu, Yolculuk Gider Bölüşme, Seyahat Günlüğü, Saat Dilimi Planlayıcı, Seyahat İfadeleri Cep Sözlüğü
+• Rehber ve güvenlik: Çamaşır Sembolleri Rehberi, Düğüm Rehberi, İlk Yardım Rehberi, Deprem Çantası ve Aile Planı
