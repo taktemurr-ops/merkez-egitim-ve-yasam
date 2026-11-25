@@ -18,188 +18,188 @@ dependencies:
   egitim_motoru:
     git:
       url: https://github.com/taktemurr-ops/egitim-motoru
-      ref: 1b5ac90a44856e2b6a4bf94d34f7628200ec9fea
+      ref: fedca49adb308b5be9d11ba89d354bef08218afc
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_bilgi_kartlari:
     git:
       url: https://github.com/taktemurr-ops/uyg-bilgi-kartlari
-      ref: 1ad910c86ca98cacc9a9b39d6ed2132cd19872bd
+      ref: e63fb3119e7ee59cc4f25bfb209b84dd043c68e4
   uyg_periyodik_tablo:
     git:
       url: https://github.com/taktemurr-ops/uyg-periyodik-tablo
-      ref: 6f9f1f1bd27284ecb611b52c94be71d92ea1e1b8
+      ref: a24056696c42194c50706175c2f05cb2e761e12d
   uyg_formul_kitabi:
     git:
       url: https://github.com/taktemurr-ops/uyg-formul-kitabi
-      ref: cd8b423f0ec9a7539f7efc06687a17e88c531aaf
+      ref: 265d87a7692563f9a554a6aab39a937053cd99c6
   uyg_cevrimdisi_sozluk:
     git:
       url: https://github.com/taktemurr-ops/uyg-cevrimdisi-sozluk
-      ref: 8345e88931f07a119ec8a3c585cb7e0aa49d6e76
+      ref: 542407d413ba0c38a4fc54e79929ce0dc0c0288c
   uyg_matematik_pratigi:
     git:
       url: https://github.com/taktemurr-ops/uyg-matematik-pratigi
-      ref: 7ecf962cf2da82b70925a702fa20cf2b267887d4
+      ref: 5df1eadf705cd2f02a363ceeab28083dd6bec6d9
   uyg_klavye_egitimi:
     git:
       url: https://github.com/taktemurr-ops/uyg-klavye-egitimi
-      ref: ecf7bfab9b7ad7e9469cfb7d4768b72bc0081b82
+      ref: 0c148f259b2ea38dd124d5deffb420405ce3e640
   uyg_tarif_kutusu:
     git:
       url: https://github.com/taktemurr-ops/app-007
-      ref: 9ab151e547164ebe3c29afa724f38fc60f287252
+      ref: a900b51b4a2768d2e1695f73e82c6496d1ad53f4
   uyg_bitki_sulama_hatirlatici:
     git:
       url: https://github.com/taktemurr-ops/uyg-bitki-sulama-hatirlatici
-      ref: ef5a1f849d4257c2f7dff4263660e135e812b62b
+      ref: 71bfcfaae4be7b7c275650238df3a040c495e2d1
   uyg_ev_envanteri:
     git:
       url: https://github.com/taktemurr-ops/uyg-ev-envanteri
-      ref: ec09a09333d61cc0ebf15084a4d8a937a8c049ed
+      ref: d576c70f13c575f5e2d6bb5bf57d93dda2ffa112
   uyg_dogum_gunu_hatirlatici:
     git:
       url: https://github.com/taktemurr-ops/uyg-dogum-gunu-hatirlatici
-      ref: ff62401cead35f37ce61459e9fc3d02e6e5761c8
+      ref: 3e7cae91e08305f478522d0607441ee3d70737b6
   uyg_namaz_vakitleri:
     git:
       url: https://github.com/taktemurr-ops/uyg-namaz-vakitleri
-      ref: af630dabcfa169e59e6b3fdcd1a33be06f8d71c9
+      ref: bb335081117ba8c4fd9122ab182b4782d3e82ae0
   uyg_kible_pusulasi:
     git:
       url: https://github.com/taktemurr-ops/uyg-kible-pusulasi
-      ref: 3cfd43b36476fac328b9b694a3731a99218c59fe
+      ref: a1b890fd847dc108ef742414c55fdcbff66db348
   uyg_zikirmatik:
     git:
       url: https://github.com/taktemurr-ops/uyg-zikirmatik
-      ref: 9049b7e798721ac27f767a34cf79edb690dc7c7c
+      ref: a1246f4f4484e8887b482696e0476df0c67de79c
   uyg_seyahat_kontrol_listesi:
     git:
       url: https://github.com/taktemurr-ops/uyg-seyahat-kontrol-listesi
-      ref: edeae560e16bdb079e4ba1f296a4386fc93b052e
+      ref: 5b9865c0384c82a474cb8d1d2b06026387b79492
   uyg_park_yeri_bulucu:
     git:
       url: https://github.com/taktemurr-ops/uyg-park-yeri-bulucu
-      ref: 90bf8ec38b1b734367463b8c2679001fe4137e4c
+      ref: f5626485b067669a3c7ace3265e6771acfffd5b1
   uyg_yolculuk_gider_bolusme:
     git:
       url: https://github.com/taktemurr-ops/uyg-yolculuk-gider-bolusme
-      ref: 0abb546ef65cc5bd06ddcfc80abe9e69d4f51c93
+      ref: 68ba1d7b304ced97b5ea50d75b138f6bb8c1f766
   uyg_tr_en_kelime_ezberi:
     git:
       url: https://github.com/taktemurr-ops/uyg-tr-en-kelime-ezberi
-      ref: 4046dcfe57b61dcc8265ea98ce6680c1f6b5ff7e
+      ref: df546a5f4d29fb8c75d171fbdda320cf73014709
   uyg_fizik_simulasyonlari:
     git:
       url: https://github.com/taktemurr-ops/uyg-fizik-simulasyonlari
-      ref: 1cafe6c64c86eea5d29a76dedfb1a601f26981c1
+      ref: 1d884195edfcfa2b4af408d480978ed8423118b7
   uyg_molekul_goruntuleyici:
     git:
       url: https://github.com/taktemurr-ops/uyg-molekul-goruntuleyici
-      ref: f4591fa13b8060d0e90584de22d66d1d4829c21e
+      ref: cdcea437c34e8a38b75ea332ab998b9aea2ff528
   uyg_dunya_atlasi:
     git:
       url: https://github.com/taktemurr-ops/uyg-dunya-atlasi
-      ref: 14c4b8899da9659ad747ae400cd5e59439c87d0b
+      ref: eda035965ed0bf46624d86fbf6bcd7970d9d9c3c
   uyg_gokyuzu_haritasi:
     git:
       url: https://github.com/taktemurr-ops/uyg-gokyuzu-haritasi
-      ref: 446da05a48ce92f0f45f8e28a3cb4a71f89a248c
+      ref: f7e467d96f865f287f459853ed67b7a4feb5f954
   uyg_kodlama_ogrenme:
     git:
       url: https://github.com/taktemurr-ops/uyg-kodlama-ogrenme
-      ref: c503fbd40b10a6814e8b29d5f61e8dd18b5ab2dc
+      ref: 7fc33ed35726da140a82d5244a8345011f2980b0
   uyg_hizli_okuma:
     git:
       url: https://github.com/taktemurr-ops/uyg-hizli-okuma
-      ref: 7ae47251aac0fcee0e1915ef746365ede3bf7d7c
+      ref: 7902a5c44a97194a8e618317d147fa94d44a491d
   uyg_sinav_geri_sayimi:
     git:
       url: https://github.com/taktemurr-ops/uyg-sinav-geri-sayimi
-      ref: d389fefd215140ce37867c3a4446c8e87f68dc23
+      ref: ee942a928bc165dc8696483ca072801b3f50c541
   uyg_deneme_net_hesaplayici:
     git:
       url: https://github.com/taktemurr-ops/uyg-deneme-net-hesaplayici
-      ref: bb3ac684ddb2d1c938157afa0260354a58f83143
+      ref: f5948e95ddaf8c587e5697ad7bb1afc0136ee486
   uyg_konu_takip_cizelgesi:
     git:
       url: https://github.com/taktemurr-ops/uyg-konu-takip-cizelgesi
-      ref: 2156d82fa7458a747ba99fdf11647b18256834d7
+      ref: 7150b1ef6a662cc74d6b8a5f950fa23734722492
   uyg_ev_bakim_plani:
     git:
       url: https://github.com/taktemurr-ops/uyg-ev-bakim-plani
-      ref: 0adadb508c020d55eb2d7444679a5894a1a0f668
+      ref: a092a24de55cb2530ba2c41c1720c6dd13de4195
   uyg_arac_bakim_takibi:
     git:
       url: https://github.com/taktemurr-ops/uyg-arac-bakim-takibi
-      ref: 99f203c565b8f85dfaf758004aa44a1d0a16c22f
+      ref: b61a81a6856ae9a48ab1c73e2bb705f40120c552
   uyg_hediye_listesi:
     git:
       url: https://github.com/taktemurr-ops/uyg-hediye-listesi
-      ref: 945afa205a1eb09da334676222a3b8fbfcbeb49b
+      ref: ed0a0f77ddb683cd7a1bce2c1f0812e853a852d9
   uyg_dugun_planlayici:
     git:
       url: https://github.com/taktemurr-ops/uyg-dugun-planlayici
-      ref: 0c9772432673e7872ec98abcd9b3a05eebc2caeb
+      ref: 8861641f30fe21e681fbfacb42dd67a24492f65f
   uyg_temizlik_ve_ev_isi_cizelgesi:
     git:
       url: https://github.com/taktemurr-ops/uyg-temizlik-ve-ev-isi-cizelgesi
-      ref: ec0475e4d78cfc88cac0776f8f6c171620baf221
+      ref: 3f0f13553b805a86b6b09d2c70414fec70b30147
   uyg_yemek_planlayici:
     git:
       url: https://github.com/taktemurr-ops/app-008
-      ref: 1664a01627f25a58ed6ac326c3f0c542916228c8
+      ref: 839e01689369deecc735df56ca52b3ee7bf496af
   uyg_kiler_ve_son_kullanma_takibi:
     git:
       url: https://github.com/taktemurr-ops/uyg-kiler-ve-son-kullanma-takibi
-      ref: 37841cd70f171d8f20b1f1336d7c948b32795f40
+      ref: 11b4eb57058f2dfd449b10e215ee10522614d997
   uyg_camasir_sembolleri_rehberi:
     git:
       url: https://github.com/taktemurr-ops/uyg-camasir-sembolleri-rehberi
-      ref: fb550e893071275c409b2d7d2b46d4458ccfde4b
+      ref: 1e7a9c540e1d7d8eb415a1d51712d4e55766f65c
   uyg_evcil_hayvan_bakim_ve_asi_takibi:
     git:
       url: https://github.com/taktemurr-ops/uyg-evcil-hayvan-bakim-ve-asi-takibi
-      ref: 4b2f72d46f62ec37cf8d76c041b3c170ecff8aed
+      ref: 0a1f344a2c9c3b11d68a6078a8b57061bf9a1560
   uyg_bahce_planlayici:
     git:
       url: https://github.com/taktemurr-ops/uyg-bahce-planlayici
-      ref: f761d9c2cec3f430517937ff6c6455e62598a52c
+      ref: 196b8c7fd1f7db3e90becfc43e3bcf1c0214f516
   uyg_ay_evreleri_ve_gunes_saatleri:
     git:
       url: https://github.com/taktemurr-ops/uyg-ay-evreleri-ve-gunes-saatleri
-      ref: 217369140c6d9f9f1dd32e79c271fef2bce3c44a
+      ref: 30fd64e45f6a511faf6da631df4326474bb2d19c
   uyg_imsakiye_ve_oruc_vakitleri:
     git:
       url: https://github.com/taktemurr-ops/uyg-imsakiye-ve-oruc-vakitleri
-      ref: 0e9fa5e437d94ed0329012bcf55ed40742b041c3
+      ref: f978bd59f53c6ae39711af99bebc8f1ef2da2c0d
   uyg_hicri_takvim_ve_dini_gunler:
     git:
       url: https://github.com/taktemurr-ops/uyg-hicri-takvim-ve-dini-gunler
-      ref: 0bc66b1a39f76edc043cc31586407ce23ef2d7a3
+      ref: 58a0985be9140b23ce1ea180d73a18ebb9e935b0
   uyg_seyahat_gunlugu:
     git:
       url: https://github.com/taktemurr-ops/uyg-seyahat-gunlugu
-      ref: 3fa0bd191c76ae37e0ef4d8ddea737b40070c62e
+      ref: e61b3a2b91484dc76c3164c95c4c8deb5d6a2794
   uyg_saat_dilimi_planlayici:
     git:
       url: https://github.com/taktemurr-ops/uyg-saat-dilimi-planlayici
-      ref: 1fc00eda4be9a90d6855d54084c01795e489a159
+      ref: 01838ab0a9246a9e998e776c522371cb2112770a
   uyg_seyahat_ifadeleri_cep_sozlugu:
     git:
       url: https://github.com/taktemurr-ops/uyg-seyahat-ifadeleri-cep-sozlugu
-      ref: 2f50c9a23dc5444a925b31e86cd2c8e1b6d690e9
+      ref: 6d15f1bce73dbcb1bf189697bc60a12cee85a999
   uyg_dugum_rehberi:
     git:
       url: https://github.com/taktemurr-ops/uyg-dugum-rehberi
-      ref: 30ad6d7c661c95b66819386d16062413f785e8dd
+      ref: 6a5b16235ab41143a0431a1330b8a92d19b34629
   uyg_ilk_yardim_rehberi:
     git:
       url: https://github.com/taktemurr-ops/uyg-ilk-yardim-rehberi
-      ref: a82f3a6b5d4b60958062bff5b587caa29f649440
+      ref: 1c1f5f90f08891c4ed2998716c946d179168d1ae
   uyg_deprem_cantasi_ve_aile_plani:
     git:
       url: https://github.com/taktemurr-ops/uyg-deprem-cantasi-ve-aile-plani
-      ref: 60462bcbcf7d16469fc812e217e497447445b0fc
+      ref: ed4032e1584bec2faad91f6dcbd7ecf6e30884f5
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -217,7 +217,7 @@ dependency_overrides:
   egitim_motoru:
     git:
       url: https://github.com/taktemurr-ops/egitim-motoru
-      ref: 1b5ac90a44856e2b6a4bf94d34f7628200ec9fea
+      ref: fedca49adb308b5be9d11ba89d354bef08218afc
 
 dev_dependencies:
   flutter_test:
