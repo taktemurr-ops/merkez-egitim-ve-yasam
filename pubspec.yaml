@@ -1,5 +1,5 @@
 name: merkez_egitim_ve_yasam
-description: "Eğitim ve Yaşam merkez uygulaması: 45 çevrimdışı öğrenme, bilim, ibadet vakti, ev, mutfak, seyahat ve güvenlik aracı. Android, iOS ve Web."
+description: "Eğitim ve Yaşam merkez uygulaması: 49 çevrimdışı öğrenme, bilim, ibadet vakti, ev, mutfak, seyahat ve güvenlik aracı. Android, iOS ve Web."
 publish_to: none
 version: 1.0.0+1
 
@@ -200,6 +200,22 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/uyg-deprem-cantasi-ve-aile-plani
       ref: 3e9da302db64beb0dff7317f5632829d59ddaa13
+  uyg_cok_dilli_temel_kelimeler:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-cok-dilli-temel-kelimeler
+      ref: main
+  uyg_tarih_zaman_cizelgesi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-tarih-zaman-cizelgesi
+      ref: main
+  uyg_ehliyet_sinavi_pratigi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-ehliyet-sinavi-pratigi
+      ref: main
+  uyg_turkce_dilbilgisi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-turkce-dilbilgisi
+      ref: main
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1

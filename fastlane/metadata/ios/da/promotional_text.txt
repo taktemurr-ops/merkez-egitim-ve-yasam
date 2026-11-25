@@ -1,1 +1,1 @@
-45 offline-apps: læring, videnskab, hjem, køkken, rejser, bønnetider
+49 offline-apps: læring, videnskab, hjem, køkken, rejser, bønnetider

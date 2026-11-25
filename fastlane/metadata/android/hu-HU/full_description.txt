@@ -1,6 +1,6 @@
-45 offline app: tanulás, tudomány, otthon, konyha, utazás, imaidők
+49 offline app: tanulás, tudomány, otthon, konyha, utazás, imaidők
 
-• Tanulás: Szókártyák, Képletgyűjtemény, Offline szótár, Matekgyakorló, Gépírásoktató, Török–angol szókincs, Programozás tanulása, Gyorsolvasás, Vizsga-visszaszámláló, Nettó pontszám-számoló, Tananyag-követő
+• Tanulás: Szókártyák, Képletgyűjtemény, Offline szótár, Matekgyakorló, Gépírásoktató, Török–angol szókincs, Programozás tanulása, Gyorsolvasás, Vizsga-visszaszámláló, Nettó pontszám-számoló, Tananyag-követő, Alapszavak 33 nyelven, Történelmi idővonal, Jogsi elméleti gyakorlás (Törökország), Török nyelvtan és helyesírás
 • Tudomány: Periódusos rendszer, Fizikai szimulációk, Molekulanéző, Világatlasz, Égbolttérkép, Holdfázisok és napidők
 • Hit és idők: Imaidők, Qibla-iránytű, Tasbih-számláló, Ramadáni böjt időpontjai, Hidzsra-naptár és ünnepek
 • Otthon és élet: Locsolási emlékeztető, Otthoni leltár, Születésnap-emlékeztető, Otthoni karbantartási terv, Autó-karbantartási napló, Ajándéklista, Esküvőszervező, Takarítási és házimunka-beosztás, Kisállat-gondozás és oltások, Kerttervező

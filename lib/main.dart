@@ -46,8 +46,12 @@ import 'package:uyg_tr_en_kelime_ezberi/uyg_tr_en_kelime_ezberi.dart';
 import 'package:uyg_yemek_planlayici/uyg_yemek_planlayici.dart';
 import 'package:uyg_yolculuk_gider_bolusme/uyg_yolculuk_gider_bolusme.dart';
 import 'package:uyg_zikirmatik/uyg_zikirmatik.dart';
+import 'package:uyg_cok_dilli_temel_kelimeler/uyg_cok_dilli_temel_kelimeler.dart';
+import 'package:uyg_tarih_zaman_cizelgesi/uyg_tarih_zaman_cizelgesi.dart';
+import 'package:uyg_ehliyet_sinavi_pratigi/uyg_ehliyet_sinavi_pratigi.dart';
+import 'package:uyg_turkce_dilbilgisi/uyg_turkce_dilbilgisi.dart';
 
-/// Eğitim ve Yaşam: 45 çevrimdışı araç tek uygulamada. Her aracın verisi
+/// Eğitim ve Yaşam: 49 çevrimdışı araç tek uygulamada. Her aracın verisi
 /// ayrı saklanır; reklam yalnızca bir araçtan çıkarken ve en az 3 dakika
 /// arayla gösterilir.
 final hubConfig = AppHubConfig(
@@ -103,6 +107,10 @@ final hubConfig = AppHubConfig(
     dugumRehberiTool,
     ilkYardimRehberiTool,
     depremCantasiVeAilePlaniTool,
+    cokDilliTemelKelimelerTool,
+    tarihZamanCizelgesiTool,
+    ehliyetSinaviPratigiTool,
+    turkceDilbilgisiTool,
   ],
   featured: egitimFeatured,
   privacyUrl: 'https://github.com/taktemurr-ops/merkez-egitim-ve-yasam/blob/main/PRIVACY.md',

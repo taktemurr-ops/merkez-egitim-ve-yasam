@@ -1,6 +1,6 @@
-45 offline-sovellusta: opiskelu, tiede, koti, keittiö, matkat, rukousajat
+49 offline-sovellusta: opiskelu, tiede, koti, keittiö, matkat, rukousajat
 
-• Oppiminen: Muistikortit, Kaavakirja, Offline-sanakirja, Matikkaharjoitus, Kymmensormijärjestelmä, Turkki–englanti sanasto, Opi koodaamaan, Pikalukeminen, Koelaskuri, Nettopistelaskuri, Aiheseuranta
+• Oppiminen: Muistikortit, Kaavakirja, Offline-sanakirja, Matikkaharjoitus, Kymmensormijärjestelmä, Turkki–englanti sanasto, Opi koodaamaan, Pikalukeminen, Koelaskuri, Nettopistelaskuri, Aiheseuranta, Perussanat 33 kielellä, Historian aikajana, Ajokortin teoriaharjoitus (Turkki), Turkin kielioppi ja oikeinkirjoitus
 • Tiede: Jaksollinen järjestelmä, Fysiikan simulaatiot, Molekyylikatselin, Maailmankartasto, Tähtikartta, Kuun vaiheet ja aurinko
 • Usko ja ajat: Rukousajat, Qibla-kompassi, Tasbih-laskuri, Ramadanin paastoajat, Hidžra-kalenteri ja juhlapäivät
 • Koti ja arki: Kastelumuistutus, Kodin inventaario, Syntymäpäivämuistutus, Kodin huoltokalenteri, Auton huoltokirja, Lahjalista, Häiden suunnittelija, Siivous- ja kotityölista, Lemmikin hoito ja rokotukset, Kasvimaan suunnittelija

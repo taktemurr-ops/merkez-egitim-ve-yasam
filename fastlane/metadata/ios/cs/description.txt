@@ -1,6 +1,6 @@
-45 offline aplikací: učení, věda, domácnost, kuchyně, cesty, modlitby
+49 offline aplikací: učení, věda, domácnost, kuchyně, cesty, modlitby
 
-• Učení: Kartičky, Sbírka vzorců, Offline slovník, Procvičování matematiky, Psaní na klávesnici, Turecko-anglická slovíčka, Učíme se programovat, Rychlé čtení, Odpočet do zkoušky, Výpočet čistého skóre, Sledování učebních témat
+• Učení: Kartičky, Sbírka vzorců, Offline slovník, Procvičování matematiky, Psaní na klávesnici, Turecko-anglická slovíčka, Učíme se programovat, Rychlé čtení, Odpočet do zkoušky, Výpočet čistého skóre, Sledování učebních témat, Základní slova ve 33 jazycích, Časová osa dějin, Testy z autoškoly (Turecko), Turecká gramatika a pravopis
 • Věda: Periodická tabulka, Fyzikální simulace, Prohlížeč molekul, Atlas světa, Mapa oblohy, Fáze Měsíce a časy Slunce
 • Víra a časy: Časy modliteb, Kompas kibly, Počítadlo tasbíhu, Časy půstu v ramadánu, Hidžrový kalendář a svátky
 • Domov a život: Připomínka zalévání, Domácí inventář, Připomínka narozenin, Plán údržby domácnosti, Servisní kniha auta, Seznam dárků, Svatební plánovač, Rozpis úklidu a domácích prací, Péče a očkování mazlíčka, Plánovač zahrady

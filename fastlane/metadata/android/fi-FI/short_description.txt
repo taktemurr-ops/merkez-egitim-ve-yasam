@@ -1,1 +1,1 @@
-45 offline-sovellusta: opiskelu, tiede, koti, keittiö, matkat, rukousajat
+49 offline-sovellusta: opiskelu, tiede, koti, keittiö, matkat, rukousajat

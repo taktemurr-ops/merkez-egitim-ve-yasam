@@ -1,6 +1,6 @@
-45 offline apps: leren, wetenschap, huis, keuken, reizen, gebedstijden
+49 offline apps: leren, wetenschap, huis, keuken, reizen, gebedstijden
 
-• Leren: Flitskaarten, Formuleboek, Offline woordenboek, Rekenoefening, Typcursus, Woorden Turks–Engels, Leren programmeren, Snellezen, Aftellen naar het examen, Netto-scoreberekening, Leerstofplanner
+• Leren: Flitskaarten, Formuleboek, Offline woordenboek, Rekenoefening, Typcursus, Woorden Turks–Engels, Leren programmeren, Snellezen, Aftellen naar het examen, Netto-scoreberekening, Leerstofplanner, Basiswoorden in 33 talen, Tijdlijn van de geschiedenis, Theorie-examen oefenen (Turkije), Turkse grammatica en spelling
 • Wetenschap: Periodiek systeem, Natuurkundesimulaties, Moleculeviewer, Wereldatlas, Sterrenkaart, Maanfasen en zonnetijden
 • Geloof en tijden: Gebedstijden, Qibla-kompas, Tasbih-teller, Vastentijden ramadan, Hidjra-kalender en feestdagen
 • Huis en leven: Water-herinnering voor planten, Huisinventaris, Verjaardagsherinnering, Onderhoudsplan voor thuis, Onderhoudsboekje auto, Cadeaulijst, Bruiloftsplanner, Schoonmaak- en klusschema, Huisdierverzorging en vaccinaties, Moestuinplanner

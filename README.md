@@ -1,7 +1,7 @@
 # Eğitim ve Yaşam · Learning & Living (merkez-egitim-ve-yasam)
 
-Eğitim ve Yaşam ailesinin **merkez uygulaması**: 45 çevrimdışı aracı tek uygulamada toplar.
-Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "45 Uygulama",
+Eğitim ve Yaşam ailesinin **merkez uygulaması**: 49 çevrimdışı aracı tek uygulamada toplar.
+Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "49 Uygulama",
 yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamalar · Favoriler · Profil.
 
 - Çatı: [studio-core](https://github.com/taktemurr-ops/studio-core) `lib/apps` · Motor: [egitim-motoru](https://github.com/taktemurr-ops/egitim-motoru)
@@ -65,3 +65,7 @@ yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamala
 | Düğüm Rehberi | [uyg-dugum-rehberi](https://github.com/taktemurr-ops/uyg-dugum-rehberi) |
 | İlk Yardım Rehberi | [uyg-ilk-yardim-rehberi](https://github.com/taktemurr-ops/uyg-ilk-yardim-rehberi) |
 | Deprem Çantası ve Aile Planı | [uyg-deprem-cantasi-ve-aile-plani](https://github.com/taktemurr-ops/uyg-deprem-cantasi-ve-aile-plani) |
+| 33 Dilde Temel Kelimeler | [uyg-cok-dilli-temel-kelimeler](https://github.com/taktemurr-ops/uyg-cok-dilli-temel-kelimeler) |
+| Tarih Zaman Çizelgesi | [uyg-tarih-zaman-cizelgesi](https://github.com/taktemurr-ops/uyg-tarih-zaman-cizelgesi) |
+| Ehliyet Sınavı Pratiği | [uyg-ehliyet-sinavi-pratigi](https://github.com/taktemurr-ops/uyg-ehliyet-sinavi-pratigi) |
+| Türkçe Dilbilgisi ve Yazım | [uyg-turkce-dilbilgisi](https://github.com/taktemurr-ops/uyg-turkce-dilbilgisi) |
