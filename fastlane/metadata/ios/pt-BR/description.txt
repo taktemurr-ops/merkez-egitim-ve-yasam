@@ -1,0 +1,9 @@
+45 apps offline: estudo, ciência, casa, cozinha, viagem e oração
+
+• Aprendizado: Cartões de estudo, Livro de fórmulas, Dicionário offline, Prática de matemática, Curso de digitação, Vocabulário turco–inglês, Aprenda a programar, Leitura dinâmica, Contagem regressiva para provas, Calculadora de nota líquida, Acompanhamento de conteúdos
+• Ciência: Tabela periódica, Simulações de física, Visualizador de moléculas, Atlas mundial, Mapa do céu, Fases da Lua e horários do Sol
+• Fé e horários: Horários de oração, Bússola da qibla, Contador de tasbih, Horários do jejum do Ramadã, Calendário hijri e datas religiosas
+• Casa e vida: Lembrete de rega, Inventário da casa, Lembrete de aniversários, Plano de manutenção da casa, Manutenção do carro, Lista de presentes, Planejador de casamento, Quadro de limpeza e tarefas, Cuidados e vacinas do pet, Planejador de horta
+• Cozinha: Caixa de receitas, Planejador de refeições, Despensa e validades
+• Viagem: Lista de viagem, Onde estacionei, Dividir despesas da viagem, Diário de viagem, Planejador de fusos horários, Guia de conversação
+• Guias e segurança: Guia de símbolos de lavagem, Guia de nós, Guia de primeiros socorros, Kit de emergência e plano familiar

@@ -1,0 +1,9 @@
+45 aplikacji offline: nauka, dom, kuchnia, podróże i czasy modlitw
+
+• Nauka: Fiszki, Wzory, Słownik offline, Ćwiczenia z matematyki, Nauka pisania, Słówka turecko-angielskie, Nauka programowania, Szybkie czytanie, Odliczanie do egzaminu, Kalkulator punktów netto, Śledzenie tematów nauki
+• Nauka ścisła: Układ okresowy, Symulacje fizyczne, Przeglądarka cząsteczek, Atlas świata, Mapa nieba, Fazy Księżyca i godziny Słońca
+• Wiara i czasy: Czasy modlitw, Kompas kibli, Licznik tasbih, Godziny postu w ramadanie, Kalendarz hidżry i święta
+• Dom i życie: Przypomnienie o podlewaniu, Spis domowy, Przypomnienie o urodzinach, Plan konserwacji domu, Dziennik serwisu auta, Lista prezentów, Planer ślubu, Grafik sprzątania i obowiązków, Opieka i szczepienia pupila, Planer ogrodu
+• Kuchnia: Przepiśnik, Planer posiłków, Spiżarnia i daty ważności
+• Podróże: Lista na podróż, Gdzie zaparkowałem, Podział kosztów podróży, Dziennik podróży, Planer stref czasowych, Rozmówki podróżne
+• Poradniki i bezpieczeństwo: Symbole prania, Poradnik węzłów, Poradnik pierwszej pomocy, Plecak ewakuacyjny i plan rodzinny

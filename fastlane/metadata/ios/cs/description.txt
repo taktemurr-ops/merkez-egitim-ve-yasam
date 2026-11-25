@@ -1,0 +1,9 @@
+45 offline aplikací: učení, věda, domácnost, kuchyně, cesty, modlitby
+
+• Učení: Kartičky, Sbírka vzorců, Offline slovník, Procvičování matematiky, Psaní na klávesnici, Turecko-anglická slovíčka, Učíme se programovat, Rychlé čtení, Odpočet do zkoušky, Výpočet čistého skóre, Sledování učebních témat
+• Věda: Periodická tabulka, Fyzikální simulace, Prohlížeč molekul, Atlas světa, Mapa oblohy, Fáze Měsíce a časy Slunce
+• Víra a časy: Časy modliteb, Kompas kibly, Počítadlo tasbíhu, Časy půstu v ramadánu, Hidžrový kalendář a svátky
+• Domov a život: Připomínka zalévání, Domácí inventář, Připomínka narozenin, Plán údržby domácnosti, Servisní kniha auta, Seznam dárků, Svatební plánovač, Rozpis úklidu a domácích prací, Péče a očkování mazlíčka, Plánovač zahrady
+• Kuchyně: Receptář, Plánovač jídel, Spíž a data spotřeby
+• Cestování: Cestovní seznam, Kde jsem zaparkoval, Dělení cestovních výdajů, Cestovní deník, Plánovač časových pásem, Cestovní konverzace
+• Průvodci a bezpečí: Symboly praní, Průvodce uzly, Průvodce první pomocí, Nouzové zavazadlo a rodinný plán

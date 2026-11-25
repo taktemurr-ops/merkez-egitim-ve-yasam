@@ -1,0 +1,9 @@
+45 Offline-Apps: Lernen, Wissenschaft, Haushalt, Küche, Reisen, Gebetszeiten
+
+• Lernen: Karteikarten, Formelsammlung, Offline-Wörterbuch, Mathe-Training, Tipptrainer, Türkisch–Englisch Vokabeln, Programmieren lernen, Schnelllesen, Prüfungs-Countdown, Netto-Punkte-Rechner, Lernthemen-Tracker
+• Wissenschaft: Periodensystem, Physik-Simulationen, Molekülbetrachter, Weltatlas, Sternkarte, Mondphasen und Sonnenzeiten
+• Glaube & Zeiten: Gebetszeiten, Qibla-Kompass, Tasbih-Zähler, Fastenzeiten im Ramadan, Hidschri-Kalender und Feiertage
+• Haus & Alltag: Pflanzen-Gießerinnerung, Haushaltsinventar, Geburtstagserinnerung, Wartungsplan fürs Zuhause, Fahrzeug-Wartungsbuch, Geschenkeliste, Hochzeitsplaner, Putz- und Haushaltsplan, Haustier-Pflege und Impfungen, Gartenplaner
+• Küche: Rezeptbox, Essensplaner, Vorrats- und Haltbarkeitsliste
+• Reisen: Reise-Checkliste, Parkplatz-Finder, Reisekosten teilen, Reisetagebuch, Zeitzonenplaner, Reise-Sprachführer
+• Ratgeber & Sicherheit: Pflegesymbole-Ratgeber, Knotenratgeber, Erste-Hilfe-Ratgeber, Notfallrucksack und Familienplan

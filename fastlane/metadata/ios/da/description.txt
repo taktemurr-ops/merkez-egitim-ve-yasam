@@ -1,0 +1,9 @@
+45 offline-apps: læring, videnskab, hjem, køkken, rejser, bønnetider
+
+• Læring: Studiekort, Formelsamling, Offline ordbog, Matematiktræning, Touch-skrivning, Gloser tyrkisk–engelsk, Lær at kode, Hurtiglæsning, Nedtælling til eksamen, Nettopointberegner, Emneoversigt
+• Videnskab: Det periodiske system, Fysiksimuleringer, Molekylviser, Verdensatlas, Stjernekort, Månefaser og soltider
+• Tro og tider: Bønnetider, Qibla-kompas, Tasbih-tæller, Fastetider i ramadanen, Hijri-kalender og helligdage
+• Hjem og hverdag: Påmindelse om vanding, Boliginventar, Fødselsdagspåmindelse, Vedligeholdelsesplan for hjemmet, Bilens servicelog, Gaveliste, Bryllupsplanlægger, Rengørings- og pligtskema, Kæledyrspleje og vaccinationer, Haveplanlægger
+• Køkken: Opskriftsboks, Madplan, Spisekammer og holdbarhed
+• Rejser: Rejsetjekliste, Hvor parkerede jeg, Del rejseudgifter, Rejsedagbog, Tidszoneplanlægger, Rejseparlør
+• Guider og sikkerhed: Vaskesymboler, Knobguide, Førstehjælpsguide, Nødtaske og familieplan

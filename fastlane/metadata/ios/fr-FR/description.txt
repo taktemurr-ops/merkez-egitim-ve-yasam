@@ -1,0 +1,9 @@
+45 applis hors ligne : études, sciences, maison, cuisine, voyage, prière
+
+• Apprendre: Cartes mémoire, Formulaire, Dictionnaire hors ligne, Entraînement en maths, Dactylographie, Vocabulaire turc–anglais, Apprendre à coder, Lecture rapide, Compte à rebours des examens, Calcul des points nets, Suivi des chapitres
+• Sciences: Tableau périodique, Simulations de physique, Visionneuse de molécules, Atlas du monde, Carte du ciel, Phases de la Lune et heures du Soleil
+• Foi et horaires: Horaires de prière, Boussole de la qibla, Compteur de tasbih, Horaires du jeûne du Ramadan, Calendrier hégirien et fêtes
+• Maison et vie: Rappel d'arrosage, Inventaire de la maison, Rappel d'anniversaires, Entretien de la maison, Carnet d'entretien auto, Liste de cadeaux, Organisateur de mariage, Planning ménage et corvées, Soins et vaccins des animaux, Planificateur de potager
+• Cuisine: Boîte à recettes, Planificateur de repas, Garde-manger et dates de péremption
+• Voyage: Liste de voyage, Où suis-je garé, Partage des frais de voyage, Carnet de voyage, Planificateur de fuseaux horaires, Guide de conversation
+• Guides et sécurité: Guide des symboles d'entretien, Guide des nœuds, Guide des premiers secours, Kit d'urgence et plan familial
