@@ -113,6 +113,8 @@ final hubConfig = AppHubConfig(
     turkceDilbilgisiTool,
   ],
   featured: egitimFeatured,
+  // Masaüstü sürümünde gizli (kamera, ML Kit, sensör; bkz. ship/MASAUSTU_WEB.md).
+  mobileOnly: const ['uyg-kible-pusulasi', 'uyg-gokyuzu-haritasi'],
   privacyUrl: 'https://github.com/taktemurr-ops/merkez-egitim-ve-yasam/blob/main/PRIVACY.md',
 );
 
