@@ -13,12 +13,12 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a2d05c02f4fa6a3fa8fe9a28a1d19578c0d9b1ec
+      ref: a80a018ac4a9c5ff6b71b132e409592407ce10a3
   # Araçların ortak motoru
   egitim_motoru:
     git:
       url: https://github.com/taktemurr-ops/egitim-motoru
-      ref: 33865aca12cb61d62710f3914a2b95d5f28103cd
+      ref: 9e12368fbe4fb812d4e68a57a1aacd68d753932f
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_bilgi_kartlari:
     git:
@@ -229,11 +229,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a2d05c02f4fa6a3fa8fe9a28a1d19578c0d9b1ec
+      ref: a80a018ac4a9c5ff6b71b132e409592407ce10a3
   egitim_motoru:
     git:
       url: https://github.com/taktemurr-ops/egitim-motoru
-      ref: 33865aca12cb61d62710f3914a2b95d5f28103cd
+      ref: 9e12368fbe4fb812d4e68a57a1aacd68d753932f
 
 dev_dependencies:
   flutter_test:
