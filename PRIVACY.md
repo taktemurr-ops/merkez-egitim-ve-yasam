@@ -1,6 +1,6 @@
 # Gizlilik Politikası · Privacy Policy — Eğitim ve Yaşam / Learning & Living
 
-_Son güncelleme / Last updated: 2026-11-25_
+_Son güncelleme / Last updated: 2026-11-26_
 
 ## Türkçe
 - Araçlar internet olmadan çalışır. Kartlarınız, tarifleriniz, planlarınız, listeleriniz, günlükleriniz ve
@@ -40,5 +40,13 @@ _Son güncelleme / Last updated: 2026-11-25_
 - In-app purchases are processed by Google Play / App Store; we never see payment details.
 - Profile → "Delete all my data" removes everything stored on the device.
 - No gambling, games of chance or 18+ content.
+
+## Ek: Veri akışı ve güvenlik / Addendum: data flows and security
+
+### Türkçe
+- **Yedekleme:** Android'in kendi yedeklemesi açıksa uygulama verileri (ilerleme, ayarlar, kayıtlar) Google hesabınızdaki şifreli cihaz yedeğine dahil olabilir; bunu cihaz ayarlarından kapatabilirsiniz.
+
+### English
+- **Backup:** If Android's own backup is on, app data (progress, settings, records) may be included in the encrypted device backup in your Google account; you can turn this off in the device settings.
 
 İletişim / Contact: (yayıncı e-posta adresi / publisher e-mail)
