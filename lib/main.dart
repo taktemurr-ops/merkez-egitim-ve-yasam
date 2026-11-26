@@ -50,6 +50,7 @@ import 'package:uyg_cok_dilli_temel_kelimeler/uyg_cok_dilli_temel_kelimeler.dart
 import 'package:uyg_tarih_zaman_cizelgesi/uyg_tarih_zaman_cizelgesi.dart';
 import 'package:uyg_ehliyet_sinavi_pratigi/uyg_ehliyet_sinavi_pratigi.dart';
 import 'package:uyg_turkce_dilbilgisi/uyg_turkce_dilbilgisi.dart';
+import 'store_flavor.dart';
 
 /// Eğitim ve Yaşam: 49 çevrimdışı araç tek uygulamada. Her aracın verisi
 /// ayrı saklanır; reklam yalnızca bir araçtan çıkarken ve en az 3 dakika
@@ -118,4 +119,7 @@ final hubConfig = AppHubConfig(
   privacyUrl: 'https://github.com/taktemurr-ops/merkez-egitim-ve-yasam/blob/main/PRIVACY.md',
 );
 
-void main() => bootstrapAppHub(hubConfig);
+void main() {
+  registerStoreFlavor();
+  bootstrapAppHub(hubConfig);
+}
