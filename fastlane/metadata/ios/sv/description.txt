@@ -1,6 +1,6 @@
-49 offlineappar: plugg, vetenskap, hem, kök, resor och bönetider
+52 offlineappar: plugg, vetenskap, hem, kök, resor och bönetider
 
-• Lärande: Studiekort, Formelsamling, Offline-ordbok, Matteträning, Maskinskrivning, Glosor turkiska–engelska, Lär dig programmera, Snabbläsning, Nedräkning till provet, Nettopoängräknare, Ämnesspårare, Grundord på 33 språk, Historisk tidslinje, Körkortsteori övning (Turkiet), Turkisk grammatik och stavning
+• Lärande: Studiekort, Formelsamling, Offline-ordbok, Matteträning, Maskinskrivning, Glosor turkiska–engelska, Lär dig programmera, Snabbläsning, Nedräkning till provet, Nettopoängräknare, Ämnesspårare, Grundord på 33 språk, Historisk tidslinje, Körkortsteori övning (Turkiet), Turkisk grammatik och stavning, Språkkurs steg för steg, Läs arabiska alfabetet, Handalfabetet (ASL)
 • Vetenskap: Periodiska systemet, Fysiksimuleringar, Molekylvisare, Världsatlas, Stjärnkarta, Månfaser och soltider
 • Tro och tider: Bönetider, Qibla-kompass, Tasbih-räknare, Fastetider under ramadan, Hijrikalender och högtider
 • Hem och vardag: Vattningspåminnelse, Heminventering, Födelsedagspåminnelse, Underhållsplan för hemmet, Bilens servicelogg, Presentlista, Bröllopsplanerare, Städ- och sysslschema, Husdjursvård och vaccinationer, Trädgårdsplanerare

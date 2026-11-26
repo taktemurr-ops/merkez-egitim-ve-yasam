@@ -1,5 +1,5 @@
 name: merkez_egitim_ve_yasam
-description: "Eğitim ve Yaşam merkez uygulaması: 49 çevrimdışı öğrenme, bilim, ibadet vakti, ev, mutfak, seyahat ve güvenlik aracı. Android, iOS ve Web."
+description: "Eğitim ve Yaşam merkez uygulaması: 52 çevrimdışı öğrenme, bilim, ibadet vakti, ev, mutfak, seyahat ve güvenlik aracı. Android, iOS ve Web."
 publish_to: none
 version: 1.0.0+1
 
@@ -18,7 +18,7 @@ dependencies:
   egitim_motoru:
     git:
       url: https://github.com/taktemurr-ops/egitim-motoru
-      ref: 97ceb9ebc6c24b318767f535b98ca1d01860575e
+      ref: 3a2dd95f1957d3cd1133bafff0eaa5a0d352fd97
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_bilgi_kartlari:
     git:
@@ -216,6 +216,18 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/uyg-turkce-dilbilgisi
       ref: 27879206d996fdc705ce5e20470aa01f0391a44d
+  uyg_dil_kursu:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-dil-kursu
+      ref: 9b781c8b0e474c5fac3a392ee03bc7803d6c079d
+  uyg_arap_harfleri:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-arap-harfleri
+      ref: 6d9c3a8aee5aa9c8e8bbd0b5482cb3d8238591dd
+  uyg_isaret_dili:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-isaret-dili
+      ref: 733c74db4f7ed5e058542e3b1fd5c47bf00d4cbd
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -233,7 +245,7 @@ dependency_overrides:
   egitim_motoru:
     git:
       url: https://github.com/taktemurr-ops/egitim-motoru
-      ref: b7b09549c1cb20f30fb61752ed6d36b994daca9d
+      ref: 3a2dd95f1957d3cd1133bafff0eaa5a0d352fd97
 
 dev_dependencies:
   flutter_test:

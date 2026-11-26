@@ -1,6 +1,6 @@
-49 app offline: studio, scienza, casa, cucina, viaggi e preghiera
+52 app offline: studio, scienza, casa, cucina, viaggi e preghiera
 
-• Apprendimento: Flashcard, Formulario, Dizionario offline, Allenamento matematico, Corso di dattilografia, Vocaboli turco–inglese, Impara a programmare, Lettura veloce, Conto alla rovescia esami, Calcolo punteggio netto, Tracciamento argomenti, Parole di base in 33 lingue, Linea del tempo della storia, Quiz teoria patente (Turchia), Grammatica e ortografia turca
+• Apprendimento: Flashcard, Formulario, Dizionario offline, Allenamento matematico, Corso di dattilografia, Vocaboli turco–inglese, Impara a programmare, Lettura veloce, Conto alla rovescia esami, Calcolo punteggio netto, Tracciamento argomenti, Parole di base in 33 lingue, Linea del tempo della storia, Quiz teoria patente (Turchia), Grammatica e ortografia turca, Corso di lingue passo dopo passo, Lettura dell'alfabeto arabo, Alfabeto manuale (ASL)
 • Scienza: Tavola periodica, Simulazioni di fisica, Visualizzatore di molecole, Atlante del mondo, Mappa del cielo, Fasi lunari e orari del sole
 • Fede e orari: Orari di preghiera, Bussola della qibla, Contatore tasbih, Orari del digiuno di Ramadan, Calendario egiriano e ricorrenze
 • Casa e vita: Promemoria annaffiatura, Inventario di casa, Promemoria compleanni, Manutenzione della casa, Libretto di manutenzione auto, Lista dei regali, Organizzatore di nozze, Tabella pulizie e faccende, Cura e vaccini degli animali, Pianificatore dell'orto

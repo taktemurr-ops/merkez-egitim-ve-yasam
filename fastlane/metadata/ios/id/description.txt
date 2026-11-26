@@ -1,6 +1,6 @@
-49 aplikasi offline: belajar, sains, rumah, dapur, perjalanan, salat
+52 aplikasi offline: belajar, sains, rumah, dapur, perjalanan, salat
 
-• Belajar: Kartu Hafalan, Buku Rumus, Kamus Offline, Latihan Matematika, Latihan Mengetik, Kosakata Turki–Inggris, Belajar Koding, Membaca Cepat, Hitung Mundur Ujian, Kalkulator Nilai Bersih, Pelacak Materi, Kata Dasar dalam 33 Bahasa, Linimasa Sejarah, Latihan Teori Mengemudi (Turki), Tata Bahasa & Ejaan Turki
+• Belajar: Kartu Hafalan, Buku Rumus, Kamus Offline, Latihan Matematika, Latihan Mengetik, Kosakata Turki–Inggris, Belajar Koding, Membaca Cepat, Hitung Mundur Ujian, Kalkulator Nilai Bersih, Pelacak Materi, Kata Dasar dalam 33 Bahasa, Linimasa Sejarah, Latihan Teori Mengemudi (Turki), Tata Bahasa & Ejaan Turki, Kursus Bahasa Bertahap, Membaca Huruf Arab, Abjad Jari (ASL)
 • Sains: Tabel Periodik, Simulasi Fisika, Penampil Molekul, Atlas Dunia, Peta Langit, Fase Bulan dan Waktu Matahari
 • Ibadah & waktu: Jadwal Salat, Kompas Kiblat, Penghitung Tasbih, Jadwal Imsakiyah Ramadan, Kalender Hijriah dan Hari Besar
 • Rumah & hidup: Pengingat Siram Tanaman, Inventaris Rumah, Pengingat Ulang Tahun, Jadwal Perawatan Rumah, Catatan Servis Mobil, Daftar Hadiah, Perencana Pernikahan, Jadwal Bersih-Bersih dan Tugas Rumah, Perawatan dan Vaksin Hewan, Perencana Kebun

@@ -73,6 +73,14 @@ def android():
                      "android.permission.POST_NOTIFICATIONS", "android.permission.RECEIVE_BOOT_COMPLETED"):
             if perm not in s:
                 s = s.replace("<application", '<uses-permission android:name="%s"/>\n    <application' % perm, 1)
+        # Android 11+: dil kursu ve Arap harfleri seslendirmesi cihazın (çevrimdışı)
+        # metin okuma motorunu görebilsin.
+        if "android.intent.action.TTS_SERVICE" not in s:
+            s = s.replace(
+                "<application",
+                '<queries>\n        <intent>\n            <action android:name="android.intent.action.TTS_SERVICE"/>\n        </intent>\n    </queries>\n    <application',
+                1,
+            )
         for feat in ("android.hardware.location.gps", "android.hardware.sensor.compass", "android.hardware.sensor.accelerometer"):
             if feat not in s:
                 s = s.replace("<application", '<uses-feature android:name="%s" android:required="false"/>\n    <application' % feat, 1)

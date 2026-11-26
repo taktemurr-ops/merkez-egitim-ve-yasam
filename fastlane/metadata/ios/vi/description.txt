@@ -1,6 +1,6 @@
-49 ứng dụng ngoại tuyến: học tập, khoa học, nhà, bếp, du lịch, cầu nguyện
+52 ứng dụng ngoại tuyến: học tập, khoa học, nhà, bếp, du lịch, cầu nguyện
 
-• Học tập: Thẻ ghi nhớ, Sổ tay công thức, Từ điển ngoại tuyến, Luyện toán, Luyện gõ phím, Từ vựng Thổ–Anh, Học lập trình, Đọc nhanh, Đếm ngược kỳ thi, Tính điểm thực, Theo dõi chủ đề học, Từ vựng cơ bản 33 ngôn ngữ, Dòng thời gian lịch sử, Luyện thi lý thuyết lái xe (Thổ Nhĩ Kỳ), Ngữ pháp & chính tả tiếng Thổ Nhĩ Kỳ
+• Học tập: Thẻ ghi nhớ, Sổ tay công thức, Từ điển ngoại tuyến, Luyện toán, Luyện gõ phím, Từ vựng Thổ–Anh, Học lập trình, Đọc nhanh, Đếm ngược kỳ thi, Tính điểm thực, Theo dõi chủ đề học, Từ vựng cơ bản 33 ngôn ngữ, Dòng thời gian lịch sử, Luyện thi lý thuyết lái xe (Thổ Nhĩ Kỳ), Ngữ pháp & chính tả tiếng Thổ Nhĩ Kỳ, Khóa học ngoại ngữ từng bước, Đọc chữ cái Ả Rập, Bảng chữ cái ngón tay (ASL)
 • Khoa học: Bảng tuần hoàn, Mô phỏng vật lý, Xem phân tử, Tập bản đồ thế giới, Bản đồ bầu trời, Pha Mặt Trăng và giờ Mặt Trời
 • Tín ngưỡng & giờ: Giờ cầu nguyện, La bàn Qibla, Bộ đếm tasbih, Giờ nhịn ăn tháng Ramadan, Lịch Hijri và ngày lễ
 • Nhà & đời sống: Nhắc tưới cây, Kiểm kê đồ trong nhà, Nhắc sinh nhật, Kế hoạch bảo trì nhà, Nhật ký bảo dưỡng xe, Danh sách quà tặng, Lên kế hoạch cưới, Lịch dọn dẹp và việc nhà, Chăm sóc và tiêm phòng thú cưng, Lên kế hoạch vườn

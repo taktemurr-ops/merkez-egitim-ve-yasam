@@ -1,7 +1,7 @@
 # Eğitim ve Yaşam · Learning & Living (merkez-egitim-ve-yasam)
 
-Eğitim ve Yaşam ailesinin **merkez uygulaması**: 49 çevrimdışı aracı tek uygulamada toplar.
-Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "49 Uygulama",
+Eğitim ve Yaşam ailesinin **merkez uygulaması**: 52 çevrimdışı aracı tek uygulamada toplar.
+Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "52 Uygulama",
 yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamalar · Favoriler · Profil.
 
 - Çatı: [studio-core](https://github.com/taktemurr-ops/studio-core) `lib/apps` · Motor: [egitim-motoru](https://github.com/taktemurr-ops/egitim-motoru)
@@ -15,6 +15,11 @@ yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamala
 - Sınav geri sayımı (YKS, LGS, KPSS) tarihleri ÖSYM/MEB takviminden alınır ve **her yıl güncellenmelidir**.
 - İzinler: konum yalnızca ön planda ve isteğe bağlı (namaz/kıble/park yeri), bildirim (hatırlatmalar).
   Arka plan konumu ve kesin alarm istenmez.
+- 4. tur: **Adım adım dil kursu** (33 dil; mevcut temel kelime ve ifade verisinden üniteler, SM-2 tekrar, seri/XP;
+  seslendirme cihazın TTS motoruyla — Android 11+ için `<queries>` TTS_SERVICE), **Arap harfleri** (yalnız alfabe ve
+  okuma: konuma göre biçimler, harekeler, iz sürme; dinî metin yok), **Parmak alfabesi (ASL)** — yalnız fingerspelling,
+  uygulamada "tam işaret dili değildir" diye yazar; el şekilleri özgün şematik çizim, ASL topluluğu atfı; TİD parmak
+  alfabesi sağır topluluğunun gözden geçirmesini bekliyor.
 - Mevcut 2 depo taşındı: app-007 (Tarif kutusu), app-008 (Yemek planlayıcı) — geçmişleri korunarak; eski kod
   git geçmişinde.
 
@@ -69,3 +74,6 @@ yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamala
 | Tarih Zaman Çizelgesi | [uyg-tarih-zaman-cizelgesi](https://github.com/taktemurr-ops/uyg-tarih-zaman-cizelgesi) |
 | Ehliyet Sınavı Pratiği | [uyg-ehliyet-sinavi-pratigi](https://github.com/taktemurr-ops/uyg-ehliyet-sinavi-pratigi) |
 | Türkçe Dilbilgisi ve Yazım | [uyg-turkce-dilbilgisi](https://github.com/taktemurr-ops/uyg-turkce-dilbilgisi) |
+| Adım Adım Dil Kursu | [uyg-dil-kursu](https://github.com/taktemurr-ops/uyg-dil-kursu) |
+| Arap Harfleriyle Okuma | [uyg-arap-harfleri](https://github.com/taktemurr-ops/uyg-arap-harfleri) |
+| Parmak Alfabesi (ASL) | [uyg-isaret-dili](https://github.com/taktemurr-ops/uyg-isaret-dili) |

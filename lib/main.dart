@@ -50,9 +50,12 @@ import 'package:uyg_cok_dilli_temel_kelimeler/uyg_cok_dilli_temel_kelimeler.dart
 import 'package:uyg_tarih_zaman_cizelgesi/uyg_tarih_zaman_cizelgesi.dart';
 import 'package:uyg_ehliyet_sinavi_pratigi/uyg_ehliyet_sinavi_pratigi.dart';
 import 'package:uyg_turkce_dilbilgisi/uyg_turkce_dilbilgisi.dart';
+import 'package:uyg_dil_kursu/uyg_dil_kursu.dart';
+import 'package:uyg_arap_harfleri/uyg_arap_harfleri.dart';
+import 'package:uyg_isaret_dili/uyg_isaret_dili.dart';
 import 'store_flavor.dart';
 
-/// Eğitim ve Yaşam: 49 çevrimdışı araç tek uygulamada. Her aracın verisi
+/// Eğitim ve Yaşam: 52 çevrimdışı araç tek uygulamada. Her aracın verisi
 /// ayrı saklanır; reklam yalnızca bir araçtan çıkarken ve en az 3 dakika
 /// arayla gösterilir.
 final hubConfig = AppHubConfig(
@@ -112,6 +115,9 @@ final hubConfig = AppHubConfig(
     tarihZamanCizelgesiTool,
     ehliyetSinaviPratigiTool,
     turkceDilbilgisiTool,
+    dilKursuTool,
+    arapHarfleriTool,
+    isaretDiliTool,
   ],
   featured: egitimFeatured,
   // Masaüstü sürümünde gizli (kamera, ML Kit, sensör; bkz. ship/MASAUSTU_WEB.md).

@@ -1,1 +1,1 @@
-49 offline-sovellusta: opiskelu, tiede, koti, keittiö, matkat, rukousajat
+52 offline-sovellusta: opiskelu, tiede, koti, keittiö, matkat, rukousajat

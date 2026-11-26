@@ -13,6 +13,7 @@ _Son güncelleme / Last updated: 2026-11-26_
 - **Pusula / hareket sensörleri** yalnızca kıble pusulası ve gökyüzü haritasında yön bulmak için kullanılır.
 - **Bildirimler** yalnızca sizin kurduğunuz hatırlatmalar (bitki sulama, doğum günü, ev ve araç bakımı) için
   kullanılır.
+- **Seslendirme** (dil kursu, Arap harfleri) cihazınızın metin okuma motoruyla yapılır; motora yalnızca okunacak kelime ya da ifade verilir. Bazı cihazlarda bu motor çevrimiçi ses kullanabilir.
 - Namaz vakitleri astronomik olarak hesaplanır; resmi takvimle 1–2 dakika fark olabilir. Sınav tarihleri
   kaynağı ve güncellendiği tarihle gösterilir. İlk yardım rehberi tıbbi tavsiye değildir; acil durumda 112'yi
   arayın.
@@ -32,6 +33,7 @@ _Son güncelleme / Last updated: 2026-11-26_
   instead. The map link for your parking spot opens only if you tap it.
 - **Compass / motion sensors** are used only to find direction in the qibla compass and the sky map.
 - **Notifications** are used only for reminders you set (plant watering, birthdays, home and car upkeep).
+- **Audio pronunciation** (language course, Arabic letters) uses your device's text-to-speech engine; only the word or phrase to be read is passed to it. On some devices that engine may use an online voice.
 - Prayer times are calculated astronomically and may differ from the official calendar by 1–2 minutes. Exam
   dates are shown with their source and the date they were checked. The first-aid guide is not medical advice;
   in an emergency call your local emergency number.
