@@ -18,7 +18,7 @@ dependencies:
   egitim_motoru:
     git:
       url: https://github.com/taktemurr-ops/egitim-motoru
-      ref: 3a2dd95f1957d3cd1133bafff0eaa5a0d352fd97
+      ref: 41b72e780e2791ebe326e80c042ca8d14c735108
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_bilgi_kartlari:
     git:
@@ -245,7 +245,7 @@ dependency_overrides:
   egitim_motoru:
     git:
       url: https://github.com/taktemurr-ops/egitim-motoru
-      ref: 3a2dd95f1957d3cd1133bafff0eaa5a0d352fd97
+      ref: 41b72e780e2791ebe326e80c042ca8d14c735108
 
 dev_dependencies:
   flutter_test:

@@ -1,6 +1,6 @@
 # Gizlilik Politikası · Privacy Policy — Eğitim ve Yaşam / Learning & Living
 
-_Son güncelleme / Last updated: 2026-11-26_
+_Son güncelleme / Last updated: 2026-11-28_
 
 ## Türkçe
 - Araçlar internet olmadan çalışır. Kartlarınız, tarifleriniz, planlarınız, listeleriniz, günlükleriniz ve
@@ -11,7 +11,7 @@ _Son güncelleme / Last updated: 2026-11-26_
   yalnızca "Park yerini kaydet"e dokunduğunuzda alınır; arka planda izlenmez ve gönderilmez. Konum vermeden
   şehir seçebilirsiniz. Park yeri için harita bağlantısı yalnızca siz dokunursanız açılır.
 - **Pusula / hareket sensörleri** yalnızca kıble pusulası ve gökyüzü haritasında yön bulmak için kullanılır.
-- **Bildirimler** yalnızca sizin kurduğunuz hatırlatmalar (bitki sulama, doğum günü, ev ve araç bakımı) için
+- **Bildirimler** yalnızca sizin kurduğunuz hatırlatmalar (bitki sulama, doğum günü, ev ve araç bakımı, açtığınız namaz vakti bildirimleri) için
   kullanılır.
 - **Seslendirme** (dil kursu, Arap harfleri) cihazınızın metin okuma motoruyla yapılır; motora yalnızca okunacak kelime ya da ifade verilir. Bazı cihazlarda bu motor çevrimiçi ses kullanabilir.
 - Namaz vakitleri astronomik olarak hesaplanır; resmi takvimle 1–2 dakika fark olabilir. Sınav tarihleri
@@ -32,7 +32,7 @@ _Son güncelleme / Last updated: 2026-11-26_
   finder only when you tap "Save parking spot"; never in the background and never sent. You can pick a city
   instead. The map link for your parking spot opens only if you tap it.
 - **Compass / motion sensors** are used only to find direction in the qibla compass and the sky map.
-- **Notifications** are used only for reminders you set (plant watering, birthdays, home and car upkeep).
+- **Notifications** are used only for reminders you set (plant watering, birthdays, home and car upkeep, prayer-time alerts you turn on).
 - **Audio pronunciation** (language course, Arabic letters) uses your device's text-to-speech engine; only the word or phrase to be read is passed to it. On some devices that engine may use an online voice.
 - Prayer times are calculated astronomically and may differ from the official calendar by 1–2 minutes. Exam
   dates are shown with their source and the date they were checked. The first-aid guide is not medical advice;
